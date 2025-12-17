@@ -11,11 +11,11 @@ DIAGRAM:
 
 TOWARDS POSITIVE:
 
-<img width="800" height="450" alt="EXP 6 POSITIVE DIA" src="https://github.com/user-attachments/assets/68a2b16b-ea91-48b6-a4d6-473a5064f2a4" />
+<img width="1000" height="250" alt="EXP 6 POSITIVE DIA" src="https://github.com/user-attachments/assets/68a2b16b-ea91-48b6-a4d6-473a5064f2a4" />
 
 TOWARDS NEGATIVE:
 
-<img width="800" height="450" alt="EXP 6  NEGATIVE DIA" src="https://github.com/user-attachments/assets/5b649513-66a9-4f99-bed0-440270b84050" />
+<img width="1000" height="250" alt="EXP 6  NEGATIVE DIA" src="https://github.com/user-attachments/assets/5b649513-66a9-4f99-bed0-440270b84050" />
 
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
